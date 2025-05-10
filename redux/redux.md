@@ -2,7 +2,7 @@
 
 ---
 
-- [Что такое Redux?](./redux-ss.md)
+- [Что такое Redux?](./redux-is.md)
 - [Производительность useSelector](./use-selector.md)
 - [Разница между классическим Redux и Redux Toolkith](./difference.md)
 - [Преимущества Redux](./advantages.md)
